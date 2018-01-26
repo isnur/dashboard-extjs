@@ -5,7 +5,7 @@
 
 Ext.define('DASHBOARD.view.index', {
   extend: 'Ext.panel.Panel',
-  title: '<table style="text-align: center; border-collapse: collapse; width:100%"><tr><td><img src="assets/images/logo-naru.png" style="position: absolute; top: -20px; padding:  0px; width: 111px;"></td><td align="left" style="padding-left: 113px;"><b><font size="5">NARU DASHBOARD</font><font id="tahun" size="5" color="#ed1313"> 2016</font></b></td><td style="position:relative; float: right;"><img height="35px" src="assets/images/logo-telkomsel.png"></td></tr></table>',
+  title: '<table style="text-align: center; border-collapse: collapse; width:100%"><tr><td><img src="assets/images/Isnur.com.png" style="padding:  5px; width: 111px;"></td><td align="left" style="padding-left: 10px;"><b><font size="5">DASHBOARD</font><font id="tahun" size="5" color="#ed1313"></font></b></td></tr></table>',
   xtype: 'index',
   itemId: 'index',
   layout : {
